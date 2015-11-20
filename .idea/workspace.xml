@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de4ba7df-64ab-42f0-8312-1cc5d400a369" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/p258/AddDigits.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/p292/NimGame.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/test/test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/test.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LeetCode.iml" afterPath="$PROJECT_DIR$/LeetCode.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/p258/AddDigits.java" afterPath="$PROJECT_DIR$/src/p258/AddDigits.java" />
-    </list>
+    <list default="true" id="de4ba7df-64ab-42f0-8312-1cc5d400a369" name="Default" comment="" />
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -72,10 +64,9 @@
       <file leaf-file-name="AddDigits.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/p258/AddDigits.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8035714">
-              <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+            <state vertical-scroll-proportion="0.7714286">
+              <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
               <folding>
-                <element signature="e#521#522#0" expanded="true" />
                 <element signature="e#560#561#0" expanded="true" />
               </folding>
             </state>
@@ -717,8 +708,15 @@
       <workItem from="1447858012064" duration="2232000" />
       <workItem from="1447928400473" duration="675000" />
       <workItem from="1447930176807" duration="1810000" />
-      <workItem from="1448024467648" duration="502000" />
+      <workItem from="1448024467648" duration="555000" />
     </task>
+    <task id="LOCAL-00001" summary="add JUnit test">
+      <created>1448025022009</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1448025022009</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -736,7 +734,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5219000" />
+    <option name="totallyTimeSpent" value="5272000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -749,7 +747,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -757,7 +755,7 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19452055" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19452055" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32739726" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20821919" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -787,6 +785,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add JUnit test" />
+    <option name="LAST_COMMIT_MESSAGE" value="add JUnit test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -829,7 +831,6 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
           <folding>
-            <element signature="e#521#522#0" expanded="true" />
             <element signature="e#560#561#0" expanded="true" />
           </folding>
         </state>
@@ -907,10 +908,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/p258/AddDigits.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8035714">
-          <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+        <state vertical-scroll-proportion="0.7714286">
+          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
           <folding>
-            <element signature="e#521#522#0" expanded="true" />
             <element signature="e#560#561#0" expanded="true" />
           </folding>
         </state>
