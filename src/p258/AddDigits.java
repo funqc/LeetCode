@@ -1,5 +1,7 @@
 package p258;
 
+import org.junit.Test;
+
 /**
  * Created by fuqunchao on 15/11/19.
  */
@@ -23,5 +25,10 @@ public class AddDigits {
 
     public int addDigits(int num) {
         return (num -1) % 9 + 1;
+    }
+
+    @Test
+    public void testAddDigits2() throws Exception {
+        System.out.print(addDigits(38));
     }
 }
