@@ -1,6 +1,6 @@
 # LeetCode
 LeetCode Study
 
-### 292 Nim Game
+### Remove Duplicates from Sorted List
 
-### 258 Add Digits
+### Reverse Linked List
